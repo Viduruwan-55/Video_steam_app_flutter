@@ -94,6 +94,7 @@ class _UNPState extends ConsumerState<UsernamePage> {
               ),
             ),
           ),
+          const Spacer(),
           Padding(
             padding: const EdgeInsets.only(bottom: 30, left: 8, right: 8),
             child: FlatButton(
